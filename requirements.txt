@@ -2,7 +2,7 @@ Gunicorn==20.0.4
 Flask==1.1.1
 Flask-MySQL==1.5.1
 Flask-MySQLdb==0.2.0
-Jinja2==2.11.1
+Jinja2==2.11.3
 joblib==0.14.1
 jsonschema==2.6.0
 mysql==0.0.2
